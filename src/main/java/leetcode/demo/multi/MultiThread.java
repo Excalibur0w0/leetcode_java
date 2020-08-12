@@ -12,5 +12,4 @@ public class MultiThread {
             System.out.println("[" + info.getThreadId() + "] " + info.getThreadName());
         }
     }
-}:w
-:
+}
